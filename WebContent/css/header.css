@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.jumbotron {
+	background-color: #0779bf;
+	color: #ffffff;
+ 	padding: 1em;
+ 	margin-bottom: 0px;
+}
+
+.jumbotron h3 {
+	margin: 5px 0px 0px 0px;
+	padding: 0px;
+}
+
+
+
